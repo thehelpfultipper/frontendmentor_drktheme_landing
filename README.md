@@ -12,7 +12,7 @@ Users should be able to:
 - View the optimal layout for the interface depending on their device's screen size
 - See hover and focus states for all interactive elements on the page
 
-**View tutorial:** [TBD]()
+**View tutorial:** [How To Use Bootstrap To Make A Responsive Landing Page](https://thehelpfultipper.com/how-to-use-bootstrap-to-make-responsive-landing-page/)
 
 ![Desktop preview](https://thehelpfultipper.com/wp-content/uploads/2024/07/fylo-dark-theme-landing-page-frontend-mentor.png)
 
