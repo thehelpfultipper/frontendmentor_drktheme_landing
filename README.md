@@ -2,9 +2,7 @@
 
 This is a solution to the [Fylo dark theme landing page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/fylo-dark-theme-landing-page-5ca5f2d21e82137ec91a50fd). This project will guide you through setting up and styling a dark theme landing page using Bootstrap, a powerful front-end framework. Follow along to build a responsive and visually appealing landing page.
 
-<br /><br />
 [Demo link](https://thehelpfultipper.com/frontendmentor_fylo_page/).
-<br /><br />
 
 ## Objective
 Create a dark theme landing page based on the design provided by Frontend Mentor. We will use Bootstrap to handle the responsive layout and basic styling, and we will add custom styles to match the design requirements.
@@ -16,7 +14,7 @@ Users should be able to:
 
 **View tutorial:** [TBD]()
 
-![Desktop preview](/public/static/desktop-preview.jpg)
+![Desktop preview](https://thehelpfultipper.com/wp-content/uploads/2024/07/fylo-dark-theme-landing-page-frontend-mentor.png)
 
 ## Features
 - **Responsive Design**: View optimal layouts for different screen sizes.
